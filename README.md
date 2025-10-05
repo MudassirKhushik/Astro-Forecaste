@@ -1,2 +1,2 @@
-# Astro-Forecaste
+# Astro-Forecast
 This is a weather App
